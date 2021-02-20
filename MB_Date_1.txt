@@ -1,0 +1,7 @@
+PNR:MB_Date_2
+TrainNo:1004
+TrainName:Udayan Express
+From:Mumbai
+To:Bangalore
+Travel Date:2021-03-25
+Total Price:750.0
